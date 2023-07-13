@@ -1,0 +1,48 @@
+$navbar-dark-color:rgba(red, .80);
+$navbar-dark-hover-color:green;
+$secondary:#2E2F33;
+@import "~bootstrap/scss/bootstrap.scss";
+.custom-navbar{
+    background-color: #FFF6F0;
+};
+
+.custom-enter-button{
+    background-color:#FFF6F0 ;
+    color: black;
+    --bs-btn-hover-bg: #FFE9E2;
+    --bs-btn-hover-border-color: black;
+    border-color: black;
+    --bs-btn-hover-color: black;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 500;
+    width: 8%;
+}
+.film-card{
+    --bs-card-bg:#FFF6F0;
+    --bs-card-border-color: #FFF6F0;
+}
+.card-button{
+    background-color: #F55A5A;
+    color: white;
+    --bs-btn-hover-bg: #F55A5A;
+    --bs-btn-hover-border-color: #F55A5A;
+    border-color: #F55A5A;
+    --bs-btn-hover-color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    line-height: 24px;
+    font-weight: 500;
+}
+
+.custom-button-description{
+    background-color: #FFF6F0;
+    color: darkgrey;
+    --bs-btn-hover-bg: #FFF6F0;
+    --bs-btn-hover-border-color: #FFF6F0;
+    border-color: #FFF6F0;
+    --bs-btn-hover-color: black;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
