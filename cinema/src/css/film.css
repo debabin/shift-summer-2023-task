@@ -1,0 +1,30 @@
+.poster-description{
+    text-align: center;
+}
+.film-info{
+    margin-top: 3%;
+    margin-left: 16%;
+
+}
+.info{
+    display: grid;
+    grid-gap:0;
+    gap: 0;
+}
+.description{
+    margin-right: 50%;
+}
+.director{
+    font-size: 24px;
+    line-height: 30px;
+    font-weight: 400;
+}
+.genre{
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: inherit;
+}
+
+.raiting{
+    color: #E2B33A;
+}
